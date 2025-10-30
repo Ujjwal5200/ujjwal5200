@@ -1,110 +1,103 @@
 # 👋 Hi, I'm Ujjwal Kaushik
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch) ![AWS](https://img.shields.io/badge/AWS-yellow?logo=amazon-aws) ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau) ![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?logo=streamlit)
+[![Email](https://img.shields.io/badge/-ujjwal7202@gmail.com-c14438?logo=gmail&logoColor=white)](mailto:ujjwal7202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-kaushik)
+![Location](https://img.shields.io/badge/india%2C%20UP-India-blue)
+
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Aspiring Data Analyst & AIML Developer (B.Tech CSE - AIML) with practical experience delivering end-to-end data and ML solutions. I build reproducible, production-ready ML systems, create insightful dashboards, and create conversational AI — all with a focus on measurable business impact.
-
-- Location: Ghaziabad, UP, India
-- Email: ujjwal7202@gmail.com
-- Phone: +91-9958952813
-- LinkedIn: https://linkedin.com/in/ujjwal-kaushik (replace with your exact profile)
+🎓 **Aspiring Data Analyst & AIML Developer** with a B.Tech in Computer Science (AIML).  
+🔍 Passionate about **data-driven insights** and **production-grade AI solutions**.  
+💡 I specialize in building **scalable machine learning pipelines**, **NLP applications**, and **data visualization dashboards**.  
 
 ---
 
-## 🎯 What I bring to a team
-
-- Strong foundation in statistics, machine learning, and NLP.
-- Hands-on experience with production-grade MLOps: CI/CD, MLflow, DVC, model monitoring, and AWS deployment.
-- Practical exposure to BI and visualization (Tableau, Power BI, Streamlit) for data storytelling.
-- Ability to convert ambiguous business problems into data-driven solutions.
+### 🌟 **Tech Stack at a Glance**
+| 💻 Programming | 🤖 Machine Learning | ⚡ MLOps & Deployment | 📊 Analytics & BI | ☁️ Cloud & Big Data |
+| :-- | :-- | :-- | :-- | :-- |
+| Python, R, SQL | Regression, Classification, NLP, Recommendation Systems, LLMs | MLflow, DVC, Docker, CI/CD, AWS | Pandas, NumPy, Tableau, Power BI, Streamlit | AWS (S3, EC2, Lambda), ETL Pipelines |
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Featured Projects
 
-- Languages: Python, R, SQL
-- ML & AI: Supervised & Unsupervised Learning, Deep Learning, Recommendation Systems, NLP, LLMs
-- Libraries & Frameworks: Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, LangChain, LangGraph
-- MLOps & Deployment: MLflow, DVC, CI/CD pipelines, Docker, AWS (EC2, S3, ECR, Lambda), Streamlit
-- Data & BI: SQL querying, ETL, Tableau, Power BI, Dashboard Development
-- Tools: Git, GitHub Actions, ML monitoring, API integration
+Click to view detailed summaries of my most impactful projects:
 
----
+<details>
+<summary>🔹 <strong>MLOps — Production-Grade ML Pipeline (Flagship)</strong></summary>
+- **Role:** Lead Developer  
+- **Summary:** Designed and deployed ML pipelines with CI/CD, automated model retraining, and cloud-hosted endpoints. Integrated MLflow and DVC for experiment tracking and versioning.  
+- **Impact:** Delivered scalable, reliable, and fully automated ML workflows.  
+- **Tech:** Python, MLflow, DVC, Docker, AWS  
+</details>
 
-## 🔍 Top Projects (Selected to showcase impact)
+<details>
+<summary>🔹 <strong>Model Snap — Data Analysis & ML Platform</strong></summary>
+- **Role:** Full-Stack Data Scientist  
+- **Summary:** Created a platform for exploratory data analysis, machine learning, and one-click model deployment.  
+- **Impact:** Improved prediction accuracy by 20%, reduced ETL time by 15%.  
+- **Tech:** Python, Pandas, Scikit-Learn, Streamlit  
+</details>
 
-Below are the projects I hand-picked to demonstrate technical depth, production-readiness, and measurable outcomes. Click the project name to view code and demos (replace links with repo URLs if you have them).
+<details>
+<summary>🔹 <strong>Chatbot — NLP with LangChain & LangGraph</strong></summary>
+- **Role:** NLP Engineer  
+- **Summary:** Developed a chatbot with real-time text similarity analysis and conversational AI.  
+- **Impact:** Achieved 90% user satisfaction in trials.  
+- **Tech:** LangChain, LangGraph, Streamlit  
+</details>
 
-### 1) MLOps — Production-grade ML Pipeline (Recommended Showcase)
-- Role: Lead implementer
-- Summary: End-to-end ML system with automated CI/CD, model versioning (MLflow + DVC), containerized deployment, and AWS-hosted inference endpoints.
-- Key outcomes: Automated retraining and deployment, monitoring with alerting and rollback, reproducible experiments.
-- Tech: Python, MLflow, DVC, Docker, GitHub Actions, AWS (S3, ECR, ECS/Lambda), Prometheus/CloudWatch
-- Why this matters to recruiters: Demonstrates ability to move ML models from prototype to production reliably.
+<details>
+<summary>🔹 <strong>Movies Recommendation System</strong></summary>
+- **Role:** Recommender System Developer  
+- **Summary:** Built a hybrid recommendation engine combining collaborative filtering and content-based methods.  
+- **Impact:** Improved recommendation relevance by 25%.  
+- **Tech:** Python, Scikit-Learn  
+</details>
 
-### 2) Model Snap — Data Analysis & ML Platform
-- Role: Full-stack data scientist
-- Summary: A platform for EDA, data ingestion, model training, and one-click deployment for user datasets.
-- Outcomes: +20% prediction accuracy on benchmark datasets; 15% faster data processing through optimized ETL.
-- Tech: Python, Pandas, Scikit-Learn, Streamlit, ETL workflows
-- Why this matters: Shows end-to-end product thinking and measurable improvement.
-
-### 3) Chatbot — LangGraph & LangChain with Streamlit
-- Role: NLP Engineer
-- Summary: Conversational AI interface with text-similarity enhancements and custom MCP integration.
-- Outcomes: ~90% user satisfaction in trials; fast, context-aware replies.
-- Tech: LangGraph, LangChain, Streamlit, NLP preprocessing
-- Why this matters: Real user-facing NLP product experience.
-
-### 4) Movies Recommendation System
-- Role: Recommender System Developer
-- Summary: Hybrid recommender (collaborative + content-based) that improves personalization.
-- Outcomes: +25% improvement in recommendation relevance in offline evaluation.
-- Tech: Python, Scikit-Learn, collaborative filtering, content features
-
-### 5) Quora Question Similarity (NLP)
-- Role: NLP Research & Engineer
-- Summary: Duplicate detection using advanced NLP preprocessing and similarity measures.
-- Outcomes: +30% search relevancy improvement in tests.
-- Tech: NLP pipelines, feature engineering, similarity metrics
+<details>
+<summary>🔹 <strong>Quora Question Similarity (NLP)</strong></summary>
+- **Role:** NLP Researcher  
+- **Summary:** Implemented a duplicate question detection system with advanced NLP techniques and anomaly detection.  
+- **Impact:** Enhanced search relevancy by 30%.  
+- **Tech:** Python, NLP libraries  
+</details>
 
 ---
 
-## 📈 Recruiter Snapshot
+## 🏅 Achievements
 
-- Ready for: Entry-level Data Analyst, AIML Developer, MLOps Engineer roles
-- Availability: Immediate
-- What I want to work on: Production ML, analytics at scale, NLP & recommendation engines, data-driven business problems
-
----
-
-## ✅ How to Evaluate My Work (Quick Guide for Recruiters)
-
-1. Check the MLOps project for CI/CD, reproducibility, and AWS deployment. This shows production readiness.
-2. Review Model Snap for EDA, feature engineering, and model lifecycle handling.
-3. Interact with the Chatbot demo to see UX & NLP accuracy.
-4. Ask for a short technical task or pair-programming session — I’m happy to demonstrate problem-solving live.
+- **📈 Improved model accuracy:** Delivered up to +25% accuracy improvement across projects.  
+- **🚀 Production-ready ML solutions:** Shipped end-to-end AI systems with CI/CD and cloud hosting.  
+- **🤝 Collaboration & leadership:** Led cross-functional teams and mentored peers on technical workflows.  
 
 ---
 
-## 📫 Contact
+## 🎯 Career Objective
 
-- Email: [ujjwal7202@gmail.com](mailto:ujjwal7202@gmail.com)
-- LinkedIn: https://linkedin.com/in/ujjwal-kaushik
-- GitHub: https://github.com/Ujjwal5200
-
----
-
-## 📌 Notes & Next Steps
-
-- Replace the LinkedIn URL with your exact profile URL.
-- Add repo links for each featured project (I placed project descriptions so recruiters can find them easily).
-- Consider adding a resume PDF to this repo and a short demo GIF for the Chatbot or MLOps dashboard.
+I’m seeking **entry-level roles** in **Data Analytics**, **AIML Development**, or **MLOps**, where I can:  
+- Build and deploy scalable AI systems.  
+- Contribute to high-impact projects and cross-functional teams.  
+- Grow with innovative organizations to solve real-world challenges.
 
 ---
 
-**“Turning data into decisions and shipping reliable ML systems that create impact.”**
+## 📫 How to Reach Me
+
+- 📧 **Email:** [ujjwal7202@gmail.com](mailto:ujjwal7202@gmail.com)  
+- 💼 **LinkedIn:** [ujjwal-kaushik](https://www.linkedin.com/in/ujjwal-kaushik-57524925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 **GitHub:** [Ujjwal5200](https://github.com/Ujjwal5200)
+
+---
+
+> “Transforming data into actionable insights and deploying AI systems that scale.”
+
+---
+
+**Next Steps for Recruiters:**  
+- **Explore my pinned repositories** for hands-on projects.  
+- **Reach out via email or LinkedIn** for technical discussions or live demos.  
+- Let’s create something impactful together!
