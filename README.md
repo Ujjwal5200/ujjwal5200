@@ -16,9 +16,9 @@
 ---
 
 ### 🌟 **Tech Stack at a Glance**
-| 💻 Programming | 🤖 Machine Learning | ⚡ MLOps & Deployment | 📊 Analytics & BI | ☁️ Cloud & Big Data |
+| 💻 Programming | 🤖 Machine Learning | ⚡ MLOps & Deployment | 📊 Analytics & BI | AI | ☁️ Cloud & Big Data |
 | :-- | :-- | :-- | :-- | :-- |
-| Python, R, SQL | Regression, Classification, NLP, Recommendation Systems, LLMs | MLflow, DVC, Docker, CI/CD, AWS | Pandas, NumPy, Tableau, Power BI, Streamlit | AWS (S3, EC2, Lambda), ETL Pipelines |
+| Python, R, SQL | Regression, Classification, NLP, Recommendation Systems, LLMs | MLflow, DVC, Docker,Kubernetes,Prometheus & Graphana, CI/CD, AWS | Pandas, NumPy, Tableau, Power BI, Streamlit |Agentic Ai , LLM ,MCP, Ai Agents | AWS (S3, EC2, Lambda), ETL Pipelines |
 
 ---
 
