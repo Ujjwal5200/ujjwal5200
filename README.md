@@ -28,7 +28,7 @@ Click to view detailed summaries of my most impactful projects:
 
 <details>
 <summary>🔹 <strong>MLOps — Production-Grade ML Pipeline (Flagship)</strong></summary>
-- **Role:** Lead Developer</details>
+- **Role:** Lead Developer
 - **Summary:** Designed and deployed ML pipelines with CI/CD, automated model retraining, and cloud-hosted endpoints. Integrated MLflow and DVC for experiment tracking and versioning.  
 - **Impact:** Delivered scalable, reliable, and fully automated ML workflows.  
 - **Tech:** Python, MLflow, DVC, Docker, AWS  
